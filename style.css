@@ -1,0 +1,45 @@
+.html
+{
+    background-color: blue;
+}
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+}
+.note
+{
+    font-size:15px;
+    color:black;
+}
+.copy_right_footer {
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
+.body
+{
+    background-color: blue;
+}
+.background
+{
+    background-color: blue;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
